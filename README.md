@@ -4,7 +4,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/CharlesKariuki-001/projects?style=social)
 
-Welcome to my digital workshop—a collection of hands-on builds where ideas take shape, from quick prototypes to functional demos. Here, you'll find a mix of web apps, tools, and explorations born from curiosity and real-world tinkering. Each project tells a story of iteration: starting simple, layering features, and refining for impact.
+Welcome to my digital workshop a collection of hands-on builds where ideas take shape, from quick prototypes to functional demos. Here, you'll find a mix of web apps, tools, and explorations born from curiosity and real-world tinkering. Each project tells a story of iteration: starting simple, layering features, and refining for impact.
 
 Whether it's crafting user-friendly interfaces or wiring up backends that hum smoothly, this space captures the joy of turning "what if" into "here it is." Dive in, fork away, and let's see what you build next.
 
